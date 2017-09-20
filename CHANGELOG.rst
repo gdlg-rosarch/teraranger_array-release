@@ -2,6 +2,11 @@
 Changelog for package teraranger_array
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.1 (2017-09-20)
+------------------
+* Update package.xml
+* Contributors: Kabaradjian PL
+
 1.0.0 (2017-09-18)
 ------------------
 
