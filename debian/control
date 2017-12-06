@@ -1,0 +1,12 @@
+Source: ros-kinetic-teraranger-array
+Section: misc
+Priority: extra
+Maintainer: Pierre-Louis Kabaradjian <pierre-louis.kabaradjian@terabee.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-dynamic-reconfigure, ros-kinetic-message-generation, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-rosunit, ros-kinetic-sensor-msgs, ros-kinetic-serial, ros-kinetic-std-msgs
+Homepage: http://wiki.ros.org/teraranger_array
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-teraranger-array
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-dynamic-reconfigure, ros-kinetic-message-runtime, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-serial, ros-kinetic-std-msgs
+Description: The teraranger_array package for TeraRanger Array Products (Multiflex, One)
